@@ -39,7 +39,7 @@ const playlistData = {
         { name: "Kabhi jo badal", src: "Kabhi Jo Baadal Barse.mp3" },
         { name: "Thodi der", src: "Thodi Der - Half Girlfriend 128 Kbps.mp3" },
         { name: "Tum hi ho", src: "Tum Hi Ho - Aashiqui 2 320 Kbps.mp3" },
-        { name: "Baarish", src: "Baarish - Half Girlfriend 320 Kbps.mp3" },
+        { name: "Baarish", src: "Final/Baarish - Half Girlfriend 320 Kbps.mp3" },
         { name: "Dil diyan gallan", src: "Dil Diyan Gallan.mp3" },
         { name: "Tera ban jaunga", src: "128-Tera Ban Jaunga - Kabir Singh 128 Kbps.mp3" },
         { name: "Rait zara si", src: "Rait Zara Si - Atrangi Re 320 Kbps.mp3" },
