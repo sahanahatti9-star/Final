@@ -34,17 +34,17 @@ const playlistData = {
   popular: [
     {
       title: "Top Hits",
-      cover: "assets/rain with coffee.jpg",
+      cover: "rain with coffee.jpg",
       songs: [
-        { name: "Kabhi jo badal", src: "songs/Kabhi Jo Baadal Barse.mp3" },
-        { name: "Thodi der", src: "songs/Thodi Der - Half Girlfriend 128 Kbps.mp3" },
-        { name: "Tum hi ho", src: "songs/Tum Hi Ho - Aashiqui 2 320 Kbps.mp3" },
-        { name: "Baarish", src: "songs/Baarish - Half Girlfriend 320 Kbps.mp3" },
-        { name: "Dil diyan gallan", src: "songs/Dil Diyan Gallan.mp3" },
-        { name: "Tera ban jaunga", src: "songs/128-Tera Ban Jaunga - Kabir Singh 128 Kbps.mp3" },
-        { name: "Rait zara si", src: "songs/Rait Zara Si - Atrangi Re 320 Kbps.mp3" },
-        { name: "Samjhawan", src: "songs/Samjhawan Humpty Sharma Ki Dulhania 320 Kbps.mp3" },
-        { name: "Chota sa fasana", src: "songs/Chota Sa Fasana - Karwaan 320 Kbps.mp3" },
+        { name: "Kabhi jo badal", src: "Kabhi Jo Baadal Barse.mp3" },
+        { name: "Thodi der", src: "Thodi Der - Half Girlfriend 128 Kbps.mp3" },
+        { name: "Tum hi ho", src: "Tum Hi Ho - Aashiqui 2 320 Kbps.mp3" },
+        { name: "Baarish", src: "Baarish - Half Girlfriend 320 Kbps.mp3" },
+        { name: "Dil diyan gallan", src: "Dil Diyan Gallan.mp3" },
+        { name: "Tera ban jaunga", src: "128-Tera Ban Jaunga - Kabir Singh 128 Kbps.mp3" },
+        { name: "Rait zara si", src: "Rait Zara Si - Atrangi Re 320 Kbps.mp3" },
+        { name: "Samjhawan", src: "Samjhawan Humpty Sharma Ki Dulhania 320 Kbps.mp3" },
+        { name: "Chota sa fasana", src: "Chota Sa Fasana - Karwaan 320 Kbps.mp3" },
         { name: "", src: "" },
         { name: "", src: "" },
         { name: "", src: "" },
@@ -82,7 +82,7 @@ const playlistData = {
   rock: [
     {
       title: "Rock Classics",
-      cover: "assets/Charlie-Puth.webp",
+      cover: "Charlie-Puth.webp",
       songs: [
         { name: "How long", src: "songs/Charlie Puth - _How Long_ [Official Video].mp3" },
         { name: "I dont wanna live forever", src: "songs/WYWn4V7m21i-qppBhaUDAZuJ7JJHKUudoTL1RjJnjQ3hPMXfGQYUqaddHeLKeYShbt8bmzu1J8P_GPU-w0NZsojPnmg0hqtrNF51voOWD8IcDMIhO72xB-DLJbNML5lllibkeG3LtwctyfC2mIfvT1eeRfbGa3A2R3FQ_aE29X0Nx1Wjog.mp3" },
@@ -114,7 +114,7 @@ const playlistData = {
   jazz: [
     {
       title: "Kannada melodies",
-      cover: "assets/kannada.jpg",
+      cover: "kannada.jpg",
       songs: [
         { name: "Kele chaluve", src: "songs/Kele_Cheluve_Full_Video_Song___Rangitaranga_Video_Songs___Nirup_Bhandari,_Radhika_Chetan,_Avantika_S(256k).mp3" },
         { name: "Ale Ale", src: "songs/Ale_Ale___Audio_Song___Savaari___Raghu_Mukherjee___Srinagar_Kitty___Kamalini_Mukharji__M.Kadri(256k).mp3" },
@@ -128,7 +128,7 @@ const playlistData = {
   dance: [
     {
       title: "Punjabi hits",
-      cover: "assets/guru_dhawani001.jpg",
+      cover: "guru_dhawani001.jpg",
       songs: [
         { name: "Patola", src: "songs/Patola - Blackmail 320 Kbps.mp3" },
         { name: "High Rated Gabru", src: "songs/High Rated Gabru - Nawabzaade 320 Kbps.mp3" },
