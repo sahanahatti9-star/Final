@@ -36,7 +36,7 @@ const playlistData = {
       title: "Top Hits",
       cover: "rain with coffee.jpg",
       songs: [
-        { name: "Kabhi jo badal", src: "Kabhi Jo Baadal Barse.mp3" },
+        { name: "Kabhi jo badal", src: "Final/Kabhi Jo Baadal Barse.mp3" },
         { name: "Thodi der", src: "Thodi Der - Half Girlfriend 128 Kbps.mp3" },
         { name: "Tum hi ho", src: "Tum Hi Ho - Aashiqui 2 320 Kbps.mp3" },
         { name: "Baarish", src: "Baarish - Half Girlfriend 320 Kbps.mp3" },
